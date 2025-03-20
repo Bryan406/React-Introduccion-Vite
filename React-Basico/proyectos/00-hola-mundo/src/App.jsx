@@ -8,6 +8,7 @@ export function App() {
       <CartaTwitter isFollowing={false} userName="Bryan406">
         Bryan Roberto Quispe
       </CartaTwitter>
+
       <CartaTwitter isFollowing userName="midudev">
         Miguel Angel Duran
       </CartaTwitter>
